@@ -29,7 +29,7 @@ const Footer = () => {
                         <h4 className="text-lg font-semibold mb-2">Quick Links</h4>
                         <Link to="/" className="text-gray-400 hover:text-blue-400 mb-1">Home</Link>
                         <Link to="/about" className="text-gray-400 hover:text-blue-400 mb-1">About</Link>
-                        <Link to="/services" className="text-gray-400 hover:text-blue-400 mb-1">Services</Link>
+                        <Link to="/gallery" className="text-gray-400 hover:text-blue-400 mb-1">Gallery</Link>
                         <Link to="/contact" className="text-gray-400 hover:text-blue-400">Contact</Link>
                     </div>
                     <div className="flex flex-col items-center lg:items-start">
